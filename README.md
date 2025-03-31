@@ -97,3 +97,11 @@ Tambien estan los ratios calculados del Balance General, de Estado de Resultado 
 y un target (meta) a alcanzar con el que se compara. 
 
 ![Image](https://github.com/user-attachments/assets/3d3dc82c-0c6f-409c-9962-ec9c5f55ecb5)
+
+
+Como conclusion, a partir de la fila 55 se encuentra una tabla con datos de forma booleana (SI/NO), esta es para ver de forma general si los ratios cumplen con el target (meta)
+deseado para cada uno, la tabla se conforma con un formato condicional (Verde=Si / Rojo=No). 
+
+
+![Image](https://github.com/user-attachments/assets/38f67cc4-a732-46ff-b1f9-0ca9c78e4285)
+
