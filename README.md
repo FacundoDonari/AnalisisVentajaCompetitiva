@@ -81,27 +81,25 @@ balances y estados de resultado de lo ultimos 9 años de una sola empresa, adema
 se carge en la fila 3 y el NetIncome en la fila 16, esto es muy importante, ya que permite aplicar las formulas financieras de forma consistente y sin importar que
 empresa se escoja de la base de datos, siempre se aplicara las formulas sobre las mismas filas y en el caso mencioando se podria calcular el Margen Neto para cualquier empresa.
 
-![Image](https://github.com/user-attachments/assets/76467e3f-f786-46ee-9470-8dc5e08503ac)
+![Image](https://github.com/user-attachments/assets/806f71a5-f225-4a06-916b-27aedd9307c7)
 
 
 
 Tercer Hoja: La hoja 'ANALISIS DE VENTAJA COMPETITIVA', es donde se vuelcan los resultados. 
 Lo primero que se ve es una lista validada en donde se ecuntran los ticker de las empresa que conforman la base de datos y se puede seleccionar la que se desea analisar. 
 
-![Image](https://github.com/user-attachments/assets/e1f2ffa4-b15d-47fa-af2e-6665cd406725)
 
+![Image](https://github.com/user-attachments/assets/06367789-e642-4367-976c-202e5cb942e4)
 
 
 
 Tambien estan los ratios calculados del Balance General, de Estado de Resultado y Caluclos de Rentabilidad. AL final del cada ratio hay un resumen con los reusltados obtenidos
 y un target (meta) a alcanzar con el que se compara. 
 
-![Image](https://github.com/user-attachments/assets/3d3dc82c-0c6f-409c-9962-ec9c5f55ecb5)
+![Image](https://github.com/user-attachments/assets/9228d238-3734-408c-8612-1eb31ceda0c4)
 
 
 Como conclusion, a partir de la fila 55 se encuentra una tabla con datos de forma booleana (SI/NO), esta es para ver de forma general si los ratios cumplen con el target (meta)
 deseado para cada uno, la tabla se conforma con un formato condicional (Verde=Si / Rojo=No). 
 
-
-![Image](https://github.com/user-attachments/assets/38f67cc4-a732-46ff-b1f9-0ca9c78e4285)
-
+![Image](https://github.com/user-attachments/assets/7a92ec93-0338-424f-bf29-48685c1a2c8f)
